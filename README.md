@@ -14,6 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<img src=“https://github-readme-stats.vercel.app/api?username=DanielaBerlin&count_private=true&show_icons=true&theme=dracula&line_height=33” >
+
+
+**Github Stats:**
+
+![](https://visitor-badge.glitch.me/badge?page_id=DanielaBerlin.DanielaBerlin)
+![](https://img.shields.io/github/followers/DanielaBerlin?style=social)
+
+
+ <p align="center">
+  <a href="https://github.com/DanielaBerlin"><span>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielaBerlin&theme=dracula" />
+    </span></a>
+</p>
+
+ 
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielaBerlin&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaBerlin&langs_count=8&count_private=true&theme=dracula&line_height=10">
+
 </p>
