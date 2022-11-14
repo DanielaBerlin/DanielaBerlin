@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 **Github Stats:**
 
-![](https://visitor-badge.glitch.me/badge?page_id=DanielaBerlin.DanielaBerlin)
-![](https://img.shields.io/github/followers/DanielaBerlin?style=social)
-
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=DanielaBerlin.DanielaBerlin) -->
+<!-- ![](https://img.shields.io/github/followers/DanielaBerlin?style=social)
+ -->
+<!-- 
  <p align="center">
   <a href="https://github.com/DanielaBerlin"><span>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielaBerlin&theme=dracula" />
     </span></a>
-</p>
+</p> -->
 
  
 
