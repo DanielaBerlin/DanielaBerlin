@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi, my name is Daniela 👋🏽
+
+- 💻 I’m  currently a participant of a Web Development Bootcamp at Ironhack in Berlin.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js, and Node.js. 
 
 <!--
 **DanielaBerlin/DanielaBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 💻 I’m  currently a participant of a Web Development Bootcamp at Ironhack in Berlin.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js, and Node.js. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
