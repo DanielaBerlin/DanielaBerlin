@@ -1,6 +1,6 @@
 ### Hi, my name is Daniela 👋🏽
 
-- 💻 Participant of a Web Development Bootcamp at Ironhack in Berlin.
+- 💻 Graduated from a Web Development Bootcamp at Ironhack in Berlin.
 - 🤓 I’m learning HTML, CSS, JavaScript, React.js, and Node.js. 
 
 <!--
