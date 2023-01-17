@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielaBerlin&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaBerlin&langs_count=8&count_private=true&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielaBerlin&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielaBerlin&langs_count=8&count_private=true&theme=dracula&line_height=10">
  </p> 
