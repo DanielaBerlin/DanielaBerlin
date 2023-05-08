@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-cardona-berlin//)
 
+![Alt Text](https://media.giphy.com/media/E4LFj1NzmG5AyMNwWn/giphy.gif)
+
+
 **Github Stats:**
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=DanielaBerlin.DanielaBerlin) -->
@@ -31,7 +34,7 @@ Here are some ideas to get you started:
 </p> -->
 
  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielaBerlin&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielaBerlin&langs_count=8&count_private=true&theme=dracula&line_height=10">
  </p> 
