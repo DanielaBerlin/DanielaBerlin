@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-cardona-berlin//) -->
 
-![Alt Text](https://media.giphy.com/media/E4LFj1NzmG5AyMNwWn/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhmdTR1eTZ0M3Q5b3dkOHB5YnJhc3Z6dml3aHQ5Zjl5d2J5eDlyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoHnyWLmba9Mfslgqq/giphy.gif)
+
 
 
 <!-- **Github Stats:**
