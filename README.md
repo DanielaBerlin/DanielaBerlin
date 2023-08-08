@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-cardona-berlin//) -->
-
+**HEllO, FRIEND**
+<br>
+<br>
 ![Alt Text](https://media.giphy.com/media/E4LFj1NzmG5AyMNwWn/giphy.gif)
 
 
